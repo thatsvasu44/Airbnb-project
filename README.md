@@ -55,4 +55,4 @@ This project provides an interactive analysis of Airbnb listings across the Unit
 
 -Data-driven information for hosts, property investors, and analysts.
 
--Visual representation of dashboard- 
+-Visual representation of dashboard- https://github.com/thatsvasu44/Airbnb-project/blob/main/Snapshot%20of%20Airbnb%20project.jpg
